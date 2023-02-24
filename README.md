@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="left">
+  <a href="https://github.com/Zeathary"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=900&pause=50&multiline=true&repeat=false&width=750&height=75&lines=Zachary+Heath;B.S.+Computer+Science+%7C+Minor+in+Business+Administration+%7C+Aspiring+Software+Engineer;Full+Stack+Development+%7C+Computer+Vision+%7C+ML+%7C+Data+Analysis" alt="Typing SVG" /></a>  </p>
+
+  <a href="https://www.linkedin.com/in/zachary-heath/">
+      <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:zackh4715@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+
+
 
 <!--
 **Zeathary/Zeathary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
